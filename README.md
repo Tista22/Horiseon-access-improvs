@@ -24,7 +24,10 @@ Improvements were as follows:
 
 
 ## Installation 
-(videos inserted here)
+
+https://user-images.githubusercontent.com/117947567/204415372-18e6b6f7-0dc0-4eab-8f67-9f0979e01a0b.mp4
+
+
 
 The website is now deployed and live and can be accessed via any browser (Google Chrome, Safari, Mozilla Firefox). 
 
