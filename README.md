@@ -32,7 +32,7 @@ The website is now deployed and live and can be accessed via any browser (Google
 
 
 ## Usage 
-(video inserted here)
+
 
 In order to see some of the Accessibility features, with the use of the developer tools feature or right clicking 'inspect' on Horiseon's webpage can give you access to see alt attributes and in order to help further view accessibility features in case further improvements are needed.
 
